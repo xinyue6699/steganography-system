@@ -234,9 +234,9 @@ GAN Generator
 
 展示系统基本信息以及相关功能入口。
 
-<!--
-![系统主页](images/home.png)
--->
+```markdown
+![系统主页](static/img/home.png)
+```
 
 ---
 
@@ -244,9 +244,9 @@ GAN Generator
 
 用户输入需要隐藏的秘密信息，并提交给后端系统生成对应的 MIDI 文件。
 
-<!--
-![生成隐写 MIDI](images/generate-midi.png)
--->
+```markdown
+![生成隐写 MIDI](static/img/generate-midi.png)
+```
 
 ---
 
@@ -254,9 +254,9 @@ GAN Generator
 
 用户上传已经生成的载密 MIDI 文件，由系统提取其中隐藏的秘密信息。
 
-<!--
-![秘密信息提取](images/extract-message.png)
--->
+```markdown
+![秘密信息提取](static/img/extract-message.png)
+```
 
 ---
 
